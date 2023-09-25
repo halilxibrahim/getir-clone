@@ -2,7 +2,7 @@ import { PiGlobeSimpleThin } from 'react-icons/pi';
 import { RiUserFill, RiUserAddFill } from 'react-icons/ri';
 export default function Header() {
   return (
-    <div className="bg-purple-700">
+    <div className="bg-[#5d3ebc]">
       <div className="container mx-auto h-11 flex items-center justify-between">
         
         <a href="#">
